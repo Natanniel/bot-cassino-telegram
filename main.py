@@ -12,9 +12,7 @@ updater = Updater("5381757657:AAFBwtpgAagVYW7wZELhIDsq0xGRWrJ4JYw", use_context=
 #   Processo do BOT
 #   1 - Inicializar atravez do comando start
 #   2 - Solicitar ao usuario o email cadastrado
-
-
-
+#   3 - 
 
 # inicializar o processo do BOT
 def start(update: Update, context: CallbackContext):
